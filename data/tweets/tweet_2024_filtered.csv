@@ -1,0 +1,307 @@
+,asset_id,title_ch,Asset Destination,media,impact,start_time_utc,start_time_local,entities_curated,entities,predicted_at_entities,entities_raw_transformers,entities_transformers,keywords,predicted_at_keywords,title,text,predicted_at_text,truncated_text,title_and_text,prediction_delay_predictions,prediction_delay,influencer,user_name
+0,119881719,"Most of Earth should move to California!Illegals get free medical care in California as of January and now get ``payback optional`` $150k loans, funded by California taxpayers, among many other benefits.",https://twitter.com/elonmusk/status/1830637755598328193,Elon Musk,3748242,2024-09-02 16:03:47,2024-09-02 13:03:47,[],[],2024-09-02 16:19:47.949234,"[{'entities': array([{'end': 13, 'entity_group': 'LOC', 'score': 0.9996509552001953, 'start': 8, 'word': 'Earth'},
+        {'end': 39, 'entity_group': 'LOC', 'score': 0.9999961853027344, 'start': 29, 'word': 'California'},
+        {'end': 85, 'entity_group': 'LOC', 'score': 0.9999966621398926, 'start': 75, 'word': 'California'},
+        {'end': 164, 'entity_group': 'LOC', 'score': 0.9999958276748657, 'start': 154, 'word': 'California'},
+        {'end': 216, 'entity_group': 'LOC', 'score': 0.9989516735076904, 'start': 211, 'word': 'Earth'},
+        {'end': 242, 'entity_group': 'LOC', 'score': 0.9999947547912598, 'start': 232, 'word': 'California'},
+        {'end': 288, 'entity_group': 'LOC', 'score': 0.9999959468841553, 'start': 278, 'word': 'California'},
+        {'end': 367, 'entity_group': 'LOC', 'score': 0.9999932050704956, 'start': 357, 'word': 'California'}],
+       dtype=object), 'text': 'Most of Earth should move to California!\nIllegals get free medical care in California as of January and now get ""payback optional"" $150k loans, funded by California taxpayers, among many other benefits.\nMost of Earth should move to California!\nIllegals get free medical care in California as of January and now get “payback optional” $150k loans, funded by California taxpayers, among many other benefits.'}]",['Earth' 'California'],[],2024-09-02 16:23:59.682140,"Most of Earth should move to California!
+
+Illegals get free medical care in California as of January and now get ""payback optional"" $150k loans, funded by California taxpayers, among many other benefits.","Most of Earth should move to California!
+
+Illegals get free medical care in California as of January and now get “payback optional” $150k loans, funded by California taxpayers, among many other benefits.",2024-09-02 16:23:59.682141+00:00,"Most of Earth should move to California!
+
+Illegals get free medical care in California as of January and now get “payback optional” $150k loans, funded by California taxpayers, among many other benefits.","Most of Earth should move to California!
+
+Illegals get free medical care in California as of January and now get ""payback optional"" $150k loans, funded by California taxpayers, among many other benefits.",0.06992580722222222,0.33685614999999997,True,elonmusk
+1,119881726,Worth considering,https://twitter.com/elonmusk/status/1830632986016186601,Elon Musk,943406,2024-09-02 15:44:50,2024-09-02 12:44:50,[],[],2024-09-02 16:16:25.247993,"[{'entities': array([], dtype=object), 'text': 'Worth considering\nWorth considering'}]",[],[],2024-09-02 16:23:31.219040,Worth considering,Worth considering,2024-09-02 16:23:31.219047+00:00,Worth considering,Worth considering,0.11832529083333333,0.6447830666666666,True,elonmusk
+2,119879061,🔥🔥,https://twitter.com/elonmusk/status/1830630716209864900,Elon Musk,689412,2024-09-02 15:35:48,2024-09-02 12:35:48,[],[],2024-09-02 15:41:21.452479,"[{'entities': array([], dtype=object), 'text': 'a\na'}]",[],[],2024-09-02 15:50:15.746000,🔥🔥,🔥🔥,2024-09-02 15:50:15.746001+00:00,🔥🔥,🔥🔥,0.14841486694444447,0.24104055555555556,True,elonmusk
+3,119881729,Is this definitely arson?,https://twitter.com/elonmusk/status/1830631894440149446,Elon Musk,2254366,2024-09-02 15:40:29,2024-09-02 12:40:29,[],[],2024-09-02 16:16:25.179630,"[{'entities': array([], dtype=object), 'text': 'Is this definitely arson?\nIs this definitely arson?'}]",[],[],2024-09-02 16:23:30.754420,Is this definitely arson?,Is this definitely arson?,2024-09-02 16:23:30.754424+00:00,Is this definitely arson?,Is this definitely arson?,0.11821521944444445,0.7171540055555556,True,elonmusk
+4,119879058,The reason the Democratic Party is so soft on criminals is that criminals vote overwhelmingly Democrat – they don`t want to offend their customers!Democrat Party is literally the party of criminals.,https://twitter.com/elonmusk/status/1830629832285409742,Elon Musk,144374,2024-09-02 15:32:18,2024-09-02 12:32:18,[],[],2024-09-02 15:41:21.275160,"[{'entities': array([{'end': 31, 'entity_group': 'ORG', 'score': 0.9999958872795105, 'start': 15, 'word': 'Democratic Party'},
+        {'end': 102, 'entity_group': 'MISC', 'score': 0.9999715089797974, 'start': 94, 'word': 'Democrat'},
+        {'end': 162, 'entity_group': 'ORG', 'score': 0.9999957084655762, 'start': 148, 'word': 'Democrat Party'},
+        {'end': 231, 'entity_group': 'ORG', 'score': 0.9999950528144836, 'start': 215, 'word': 'Democratic Party'},
+        {'end': 302, 'entity_group': 'MISC', 'score': 0.9999810457229614, 'start': 294, 'word': 'Democrat'},
+        {'end': 362, 'entity_group': 'ORG', 'score': 0.9999948143959045, 'start': 348, 'word': 'Democrat Party'}],
+       dtype=object), 'text': ""The reason the Democratic Party is so soft on criminals is that criminals vote overwhelmingly Democrat – they don't want to offend their customers!\nDemocrat Party is literally the party of criminals.\nThe reason the Democratic Party is so soft on criminals is that criminals vote overwhelmingly Democrat – they don’t want to offend their customers!\nDemocrat Party is literally the party of criminals.""}]",['Democratic Party' 'Democrat Party'],['party' 'vote'],2024-09-02 15:50:16.041640,"The reason the Democratic Party is so soft on criminals is that criminals vote overwhelmingly Democrat – they don't want to offend their customers!
+
+Democrat Party is literally the party of criminals.","The reason the Democratic Party is so soft on criminals is that criminals vote overwhelmingly Democrat – they don’t want to offend their customers!
+
+Democrat Party is literally the party of criminals.",2024-09-02 15:50:16.041640+00:00,"The reason the Democratic Party is so soft on criminals is that criminals vote overwhelmingly Democrat – they don’t want to offend their customers!
+
+Democrat Party is literally the party of criminals.","The reason the Democratic Party is so soft on criminals is that criminals vote overwhelmingly Democrat – they don't want to offend their customers!
+
+Democrat Party is literally the party of criminals.",0.14854624444444445,0.2994560111111111,True,elonmusk
+5,119879063,Seems legit 🤣🤣,https://twitter.com/elonmusk/status/1830630013420327197,Elon Musk,107961,2024-09-02 15:33:01,2024-09-02 12:33:01,[],[],2024-09-02 15:41:21.306648,"[{'entities': array([], dtype=object), 'text': 'Seems legit \nSeems legit'}]",[],[],2024-09-02 15:50:20.407090,Seems legit 🤣🤣,Seems legit 🤣🤣,2024-09-02 15:50:20.407091+00:00,Seems legit 🤣🤣,Seems legit 🤣🤣,0.1497501227777778,0.28872419166666663,True,elonmusk
+6,119895920,Kamala vows to be a communist dictator on day one. Can you believe she wears that outfit!? https://t.co/ISKFXYnSon,https://twitter.com/elonmusk/status/1830656672211103825,Elon Musk,24101231,2024-09-02 17:18:57,2024-09-02 14:18:57,[],['Kamala'],2024-09-02 17:46:06.388306,"[{'entities': array([{'end': 6, 'entity_group': 'PER', 'score': 0.9999725222587585, 'start': 0, 'word': 'Kamala'},
+        {'end': 114, 'entity_group': 'MISC', 'score': 0.7206069827079773, 'start': 111, 'word': 'Son'},
+        {'end': 121, 'entity_group': 'PER', 'score': 0.9999713897705078, 'start': 115, 'word': 'Kamala'},
+        {'end': 229, 'entity_group': 'MISC', 'score': 0.6195504665374756, 'start': 222, 'word': 'FXYnSon'}],
+       dtype=object), 'text': 'Kamala vows to be a communist dictator on day one. Can you believe she wears that outfit!? https://t.co/ISKFXYnSon\nKamala vows to be a communist dictator on day one. Can you believe she wears that outfit!? https://t.co/ISKFXYnSon'}]",['Kamala'],[],2024-09-02 17:54:48.404220,Kamala vows to be a communist dictator on day one. Can you believe she wears that outfit!? ,Kamala vows to be a communist dictator on day one. Can you believe she wears that outfit!? https://t.co/ISKFXYnSon,2024-09-02 17:54:48.404229+00:00,Kamala vows to be a communist dictator on day one. Can you believe she wears that outfit!? https://t.co/ISKFXYnSon,Kamala vows to be a communist dictator on day one. Can you believe she wears that outfit!? ,0.14500442055555554,0.5976122833333333,True,elonmusk
+7,119807693,Worth reading,https://twitter.com/elonmusk/status/1830388967792849324,Elon Musk,10475606,2024-09-01 23:35:11,2024-09-01 20:35:11,[],[],2024-09-01 23:40:42.026497,"[{'entities': array([], dtype=object), 'text': 'Worth reading\nWorth reading'}]",[],[],2024-09-01 23:48:01.421390,Worth reading,Worth reading,2024-09-01 23:48:01.421392+00:00,Worth reading,Worth reading,0.12205413694444445,0.21400594166666667,True,elonmusk
+8,119887431,True,https://twitter.com/elonmusk/status/1830639722970185959,Elon Musk,4509762,2024-09-02 16:11:36,2024-09-02 13:11:36,['True'],[],2024-09-02 16:56:48.184663,"[{'entities': array([], dtype=object), 'text': 'True\nTrue'}]",[],[],2024-09-02 16:57:28.697580,True,True,2024-09-02 16:57:28.697583+00:00,True,True,0.011253588055555557,0.7646382166666666,True,elonmusk
+9,119879065,Yes,https://twitter.com/elonmusk/status/1830627365602607335,Elon Musk,491925,2024-09-02 15:22:30,2024-09-02 12:22:30,[],[],2024-09-02 15:41:31.076118,"[{'entities': array([], dtype=object), 'text': 'Yes\nYes'}]",[],[],2024-09-02 15:50:23.402230,Yes,Yes,2024-09-02 15:50:23.402231+00:00,Yes,Yes,0.14786836444444443,0.4648339527777778,True,elonmusk
+10,119879066,Bravo Brazilians!,https://twitter.com/elonmusk/status/1830630202508017701,Elon Musk,68735,2024-09-02 15:33:46,2024-09-02 12:33:46,[],[],2024-09-02 15:41:21.359929,"[{'entities': array([{'end': 12, 'entity_group': 'MISC', 'score': 0.9976418018341064, 'start': 6, 'word': 'Brazil'},
+        {'end': 30, 'entity_group': 'MISC', 'score': 0.9980239868164062, 'start': 24, 'word': 'Brazil'}],
+       dtype=object), 'text': 'Bravo Brazilians!\nBravo Brazilians!'}                                               ]",[],[],2024-09-02 15:50:20.405630,Bravo Brazilians!,Bravo Brazilians!,2024-09-02 15:50:20.405633+00:00,Bravo Brazilians!,Bravo Brazilians!,0.14973491694444444,0.2762237861111111,True,elonmusk
+11,119881717,RT @libsoftiktok: You can`t make this up. The City of Aurora is gaslighting the public about the migrant gang taking over apartment buildin…,https://twitter.com/elonmusk/status/1830633528775635105,Elon Musk,981747,2024-09-02 15:46:59,2024-09-02 12:46:59,[],['City'],2024-09-02 16:19:47.962285,"[{'entities': array([{'end': 53, 'entity_group': 'ORG', 'score': 0.9902019500732422, 'start': 46, 'word': 'City of'},
+        {'end': 60, 'entity_group': 'LOC', 'score': 0.7530047297477722, 'start': 54, 'word': 'Aurora'},
+        {'end': 154, 'entity_group': 'ORG', 'score': 0.5124661922454834, 'start': 152, 'word': 'ik'},
+        {'end': 191, 'entity_group': 'ORG', 'score': 0.9919821619987488, 'start': 187, 'word': 'City'},
+        {'end': 201, 'entity_group': 'LOC', 'score': 0.7547794580459595, 'start': 195, 'word': 'Aurora'}],
+       dtype=object), 'text': ""RT @libsoftiktok: You can't make this up. The City of Aurora is gaslighting the public about the migrant gang taking over apartment buildin…\nRT @libsoftiktok: You can’t make this up. The City of Aurora is gaslighting the public about the migrant gang taking over apartment buildin…""}]",['City of' 'Aurora' 'ik' 'City'],[],2024-09-02 16:25:40.904940,@libsoftiktok: You can't make this up. The City of Aurora is gaslighting the public about the migrant gang taking over apartment buildin…,RT @libsoftiktok: You can’t make this up. The City of Aurora is gaslighting the public about the migrant gang taking over apartment buildin…,2024-09-02 16:25:40.904948+00:00,RT @libsoftiktok: You can’t make this up. The City of Aurora is gaslighting the public about the migrant gang taking over apartment buildin…,@libsoftiktok: You can't make this up. The City of Aurora is gaslighting the public about the migrant gang taking over apartment buildin…,0.09803962638888888,0.6449735944444445,True,elonmusk
+12,119881718,RT @Foro_MAD: #Brasil 🇧🇷 | 🚨 EL BLOQUEO DE @X EN BRASIL ES UN ATENTADO CONTRA LA LIBERTAD DE EXPRESIÓN Y LOS DERECHOS DE LOS BRASILEÑOSEl…,https://twitter.com/elonmusk/status/1830636844121506049,Elon Musk,981752,2024-09-02 16:00:09,2024-09-02 13:00:09,[],[],2024-09-02 16:16:25.483877,"[{'entities': array([{'end': 12, 'entity_group': 'ORG', 'score': 0.9999681711196899, 'start': 4, 'word': 'Foro_MAD'},
+        {'end': 21, 'entity_group': 'LOC', 'score': 0.9982285499572754, 'start': 14, 'word': '#Brasil'},
+        {'end': 42, 'entity_group': 'ORG', 'score': 0.995694637298584, 'start': 40, 'word': '@X'},
+        {'end': 52, 'entity_group': 'LOC', 'score': 0.9982823729515076, 'start': 46, 'word': 'BRASIL'},
+        {'end': 129, 'entity_group': 'MISC', 'score': 0.9710257649421692, 'start': 122, 'word': 'BRASILE'},
+        {'end': 149, 'entity_group': 'ORG', 'score': 0.9999583959579468, 'start': 141, 'word': 'Foro_MAD'},
+        {'end': 158, 'entity_group': 'LOC', 'score': 0.9965395927429199, 'start': 151, 'word': '#Brasil'},
+        {'end': 179, 'entity_group': 'ORG', 'score': 0.9945339560508728, 'start': 177, 'word': '@X'},
+        {'end': 189, 'entity_group': 'LOC', 'score': 0.9983324408531189, 'start': 183, 'word': 'BRASIL'},
+        {'end': 244, 'entity_group': 'LOC', 'score': 0.9949433207511902, 'start': 243, 'word': ''},
+        {'end': 266, 'entity_group': 'MISC', 'score': 0.981998860836029, 'start': 259, 'word': 'BRASILE'}],
+       dtype=object), 'text': 'RT @Foro_MAD: #Brasil  |  EL BLOQUEO DE @X EN BRASIL ES UN ATENTADO CONTRA LA LIBERTAD DE EXPRESIÓN Y LOS DERECHOS DE LOS BRASILEÑOS\nEl…\nRT @Foro_MAD: #Brasil  |  EL BLOQUEO DE @X EN BRASIL ES UN ATENTADO CONTRA LA LIBERTAD DE EXPRESIÓN Y LOS DERECHOS DE LOS BRASILEÑOS\nEl…'}]",['Foro_MAD' '#Brasil' '@X' 'BRASIL' ''],['bloqueo' 'expresión' 'atentado' 'la libertad' 'derechos'],2024-09-02 16:22:35.710260,"@Foro_MAD: #Brasil 🇧🇷 | 🚨 EL BLOQUEO DE @X EN BRASIL ES UN ATENTADO CONTRA LA LIBERTAD DE EXPRESIÓN Y LOS DERECHOS DE LOS BRASILEÑOS
+
+El…","RT @Foro_MAD: #Brasil 🇧🇷 | 🚨 EL BLOQUEO DE @X EN BRASIL ES UN ATENTADO CONTRA LA LIBERTAD DE EXPRESIÓN Y LOS DERECHOS DE LOS BRASILEÑOS
+
+El…",2024-09-02 16:22:35.710267+00:00,"RT @Foro_MAD: #Brasil 🇧🇷 | 🚨 EL BLOQUEO DE @X EN BRASIL ES UN ATENTADO CONTRA LA LIBERTAD DE EXPRESIÓN Y LOS DERECHOS DE LOS BRASILEÑOS
+
+El…","@Foro_MAD: #Brasil 🇧🇷 | 🚨 EL BLOQUEO DE @X EN BRASIL ES UN ATENTADO CONTRA LA LIBERTAD DE EXPRESIÓN Y LOS DERECHOS DE LOS BRASILEÑOS
+
+El…",0.10284066194444444,0.3740861833333334,True,elonmusk
+13,119841901,"RT @AlexandreFiles: Por fim, Moraes considera um crime o Senador do Val dizer que ``investigaria`` a Polícia Federal que executa as ordens de…",https://twitter.com/elonmusk/status/1830492503079841879,Elon Musk,981753,2024-09-02 06:26:36,2024-09-02 03:26:36,[],['Moraes'],2024-09-02 06:45:19.740616,"[{'entities': array([{'end': 18, 'entity_group': 'ORG', 'score': 0.9953776597976685, 'start': 4, 'word': 'AlexandreFiles'},
+        {'end': 35, 'entity_group': 'PER', 'score': 0.99998939037323, 'start': 29, 'word': 'Moraes'},
+        {'end': 71, 'entity_group': 'PER', 'score': 0.9995778799057007, 'start': 65, 'word': 'do Val'},
+        {'end': 114, 'entity_group': 'ORG', 'score': 0.9999970197677612, 'start': 99, 'word': 'Polícia Federal'},
+        {'end': 159, 'entity_group': 'ORG', 'score': 0.9899049401283264, 'start': 145, 'word': 'AlexandreFiles'},
+        {'end': 176, 'entity_group': 'PER', 'score': 0.9999903440475464, 'start': 170, 'word': 'Moraes'},
+        {'end': 212, 'entity_group': 'PER', 'score': 0.9987320899963379, 'start': 206, 'word': 'do Val'},
+        {'end': 255, 'entity_group': 'ORG', 'score': 0.9999962449073792, 'start': 240, 'word': 'Polícia Federal'}],
+       dtype=object), 'text': 'RT @AlexandreFiles: Por fim, Moraes considera um crime o Senador do Val dizer que ""investigaria"" a Polícia Federal que executa as ordens de…\nRT @AlexandreFiles: Por fim, Moraes considera um crime o Senador do Val dizer que ""investigaria"" a Polícia Federal que executa as ordens de…'}]",['AlexandreFiles' 'Moraes' 'do Val' 'Polícia Federal'],['senador' 'polícia federal'],2024-09-02 06:46:08.778240,"@AlexandreFiles: Por fim, Moraes considera um crime o Senador do Val dizer que ""investigaria"" a Polícia Federal que executa as ordens de…","RT @AlexandreFiles: Por fim, Moraes considera um crime o Senador do Val dizer que ""investigaria"" a Polícia Federal que executa as ordens de…",2024-09-02 06:46:08.778248+00:00,"RT @AlexandreFiles: Por fim, Moraes considera um crime o Senador do Val dizer que ""investigaria"" a Polícia Federal que executa as ordens de…","@AlexandreFiles: Por fim, Moraes considera um crime o Senador do Val dizer que ""investigaria"" a Polícia Federal que executa as ordens de…",0.013621562222222222,0.32577173333333337,True,elonmusk
+14,119814711,Interesting observation,https://twitter.com/elonmusk/status/1830390502836854925,Elon Musk,14151987,2024-09-01 23:41:17,2024-09-01 20:41:17,[],[],2024-09-02 00:38:50.735405,"[{'entities': array([], dtype=object), 'text': 'Interesting observation\nInteresting observation'}]",[],[],2024-09-02 00:39:43.579830,Interesting observation,Interesting observation,2024-09-02 00:39:43.579830+00:00,Interesting observation,Interesting observation,0.014679006944444444,0.9740499527777778,True,elonmusk
+15,119881720,True (sigh),https://twitter.com/elonmusk/status/1830635280212381912,Elon Musk,4602556,2024-09-02 15:53:57,2024-09-02 12:53:57,['True'],[],2024-09-02 16:16:25.391827,"[{'entities': array([], dtype=object), 'text': 'True (sigh)\nTrue (sigh)'}]",[],[],2024-09-02 16:22:47.900680,True (sigh),True (sigh),2024-09-02 16:22:47.900688+00:00,True (sigh),True (sigh),0.10625245916666666,0.48080574444444446,True,elonmusk
+16,119841903,He should be impeached for violating his oath of office,https://twitter.com/elonmusk/status/1830495696757084282,Elon Musk,14137015,2024-09-02 06:39:17,2024-09-02 03:39:17,[],[],2024-09-02 06:45:19.822112,"[{'entities': array([], dtype=object), 'text': 'He should be impeached for violating his oath of office\nHe should be impeached for violating his oath of office'}]",[],['office'],2024-09-02 06:45:46.993160,He should be impeached for violating his oath of office,He should be impeached for violating his oath of office,2024-09-02 06:45:46.993163+00:00,He should be impeached for violating his oath of office,He should be impeached for violating his oath of office,0.007547513333333333,0.10833143333333332,True,elonmusk
+17,119838518,Exactly,https://twitter.com/elonmusk/status/1830469420742766724,Elon Musk,5826391,2024-09-02 04:54:53,2024-09-02 01:54:53,[],[],2024-09-02 05:16:32.329650,"[{'entities': array([], dtype=object), 'text': 'Exactly\nExactly'}]",[],[],2024-09-02 05:22:05.034750,Exactly,Exactly,2024-09-02 05:22:05.034750+00:00,Exactly,Exactly,0.09241808333333333,0.4533429861111111,True,elonmusk
+18,119891134,Why does no one complain about this?,https://twitter.com/elonmusk/status/1830653616170151967,Elon Musk,27100529,2024-09-02 17:06:48,2024-09-02 14:06:48,[],[],2024-09-02 17:13:29.675283,"[{'entities': array([], dtype=object), 'text': 'Why does no one complain about this?\nWhy does no one complain about this?'}]",[],[],2024-09-02 19:45:33.159960,Why does no one complain about this?,Why does no one complain about this?,2024-09-02 17:13:57.408850+00:00,Why does no one complain about this?,Why does no one complain about this?,2.5343012991666667,2.645877766666667,True,elonmusk
+19,119841906,"The more the people of Brazil learn from the @AlexandreFiles, the worse it will get for him. He violated the constitution of Brazil repeatedly and egregiously, after swearing an oath to protect it. Nothing worse than an oathbreaker.",https://twitter.com/elonmusk/status/1830491154325860797,Elon Musk,5371065,2024-09-02 06:21:14,2024-09-02 03:21:14,[],[],2024-09-02 06:45:33.974990,"[{'entities': array([{'end': 29, 'entity_group': 'LOC', 'score': 0.9999972581863403, 'start': 23, 'word': 'Brazil'},
+        {'end': 60, 'entity_group': 'MISC', 'score': 0.9998544454574585, 'start': 45, 'word': '@AlexandreFiles'},
+        {'end': 132, 'entity_group': 'LOC', 'score': 0.9999969005584717, 'start': 126, 'word': 'Brazil'},
+        {'end': 264, 'entity_group': 'LOC', 'score': 0.9999969005584717, 'start': 258, 'word': 'Brazil'},
+        {'end': 295, 'entity_group': 'MISC', 'score': 0.9997406005859375, 'start': 280, 'word': '@AlexandreFiles'},
+        {'end': 367, 'entity_group': 'LOC', 'score': 0.9999969005584717, 'start': 361, 'word': 'Brazil'}],
+       dtype=object), 'text': 'The more the people of Brazil learn from the @AlexandreFiles, the worse it will get for him. \nHe violated the constitution of Brazil repeatedly and egregiously, after swearing an oath to protect it. \nNothing worse than an oathbreaker.\nThe more the people of Brazil learn from the @AlexandreFiles, the worse it will get for him. \nHe violated the constitution of Brazil repeatedly and egregiously, after swearing an oath to protect it. \nNothing worse than an oathbreaker.'}]",['Brazil'],[],2024-09-02 06:45:59.446130,"The more the people of Brazil learn from the @AlexandreFiles, the worse it will get for him. 
+
+He violated the constitution of Brazil repeatedly and egregiously, after swearing an oath to protect it. 
+
+Nothing worse than an oathbreaker.","The more the people of Brazil learn from the @AlexandreFiles, the worse it will get for him. 
+
+He violated the constitution of Brazil repeatedly and egregiously, after swearing an oath to protect it. 
+
+Nothing worse than an oathbreaker.",2024-09-02 06:45:59.446130+00:00,"The more the people of Brazil learn from the @AlexandreFiles, the worse it will get for him. 
+
+He violated the constitution of Brazil repeatedly and egregiously, after swearing an oath to protect it. 
+
+Nothing worse than an oathbreaker.","The more the people of Brazil learn from the @AlexandreFiles, the worse it will get for him. 
+
+He violated the constitution of Brazil repeatedly and egregiously, after swearing an oath to protect it. 
+
+Nothing worse than an oathbreaker.",0.007075316666666666,0.412623925,True,elonmusk
+20,119892112,Good,https://twitter.com/elonmusk/status/1830647154798457126,Elon Musk,3627493,2024-09-02 16:41:08,2024-09-02 13:41:08,[],[],2024-09-02 17:18:54.442608,"[{'entities': array([], dtype=object), 'text': 'Good\nGood'}]",[],['good'],2024-09-02 17:19:22.250110,Good,Good,2024-09-02 17:19:22.250111+00:00,Good,Good,0.007724306111111111,0.6372916972222222,True,elonmusk
+21,119879059,Only a matter of time before this criminal is behind bars,https://twitter.com/elonmusk/status/1830630374747377872,Elon Musk,33816,2024-09-02 15:34:27,2024-09-02 12:34:27,[],[],2024-09-02 15:41:21.396053,"[{'entities': array([], dtype=object), 'text': 'Only a matter of time before this criminal is behind bars\nOnly a matter of time before this criminal is behind bars'}]",[],['criminal' 'time before'],2024-09-02 15:50:22.916630,Only a matter of time before this criminal is behind bars,Only a matter of time before this criminal is behind bars,2024-09-02 15:50:22.916635+00:00,Only a matter of time before this criminal is behind bars,Only a matter of time before this criminal is behind bars,0.1504223825,0.2655323972222222,True,elonmusk
+22,119881713,De Moraes deserves prison for his crimes,https://twitter.com/elonmusk/status/1830633203951939877,Elon Musk,957668,2024-09-02 15:45:41,2024-09-02 12:45:41,[],['De Moraes' 'Moraes'],2024-09-02 16:16:19.180126,"[{'entities': array([{'end': 9, 'entity_group': 'PER', 'score': 0.9999923706054688, 'start': 0, 'word': 'De Moraes'},
+        {'end': 50, 'entity_group': 'PER', 'score': 0.9999879002571106, 'start': 41, 'word': 'De Moraes'}],
+       dtype=object), 'text': 'De Moraes deserves prison for his crimes\nDe Moraes deserves prison for his crimes'}  ]",['De Moraes'],[],2024-09-02 16:22:41.678420,De Moraes deserves prison for his crimes,De Moraes deserves prison for his crimes,2024-09-02 16:22:41.678426+00:00,De Moraes deserves prison for his crimes,De Moraes deserves prison for his crimes,0.1062495261111111,0.6168551166666667,True,elonmusk
+23,119881723,RT @AdrianDittmann: JUST IN: Massive rally in support of Bolsonaro this Sunday in Paraná Brazil https://t.co/uQWDbVh8X1,https://twitter.com/elonmusk/status/1830633326031560854,Elon Musk,981747,2024-09-02 15:46:11,2024-09-02 12:46:11,[],['Bolsonaro'],2024-09-02 16:16:25.226045,"[{'entities': array([{'end': 18, 'entity_group': 'PER', 'score': 0.8756512403488159, 'start': 4, 'word': 'AdrianDittmann'},
+        {'end': 66, 'entity_group': 'PER', 'score': 0.9997748732566833, 'start': 57, 'word': 'Bolsonaro'},
+        {'end': 95, 'entity_group': 'LOC', 'score': 0.9997246861457825, 'start': 82, 'word': 'Paraná Brazil'},
+        {'end': 138, 'entity_group': 'PER', 'score': 0.9175661206245422, 'start': 124, 'word': 'AdrianDittmann'},
+        {'end': 186, 'entity_group': 'PER', 'score': 0.9997382760047913, 'start': 177, 'word': 'Bolsonaro'},
+        {'end': 215, 'entity_group': 'LOC', 'score': 0.9997875094413757, 'start': 202, 'word': 'Paraná Brazil'}],
+       dtype=object), 'text': 'RT @AdrianDittmann: JUST IN: Massive rally in support of Bolsonaro this Sunday in Paraná Brazil https://t.co/uQWDbVh8X1\nRT @AdrianDittmann: JUST IN: Massive rally in support of Bolsonaro this Sunday in Paraná Brazil https://t.co/uQWDbVh8X1'}]",['AdrianDittmann' 'Bolsonaro' 'Paraná Brazil'],['rally'],2024-09-02 16:23:15.304750,@AdrianDittmann: JUST IN: Massive rally in support of Bolsonaro this Sunday in Paraná Brazil ,RT @AdrianDittmann: JUST IN: Massive rally in support of Bolsonaro this Sunday in Paraná Brazil https://t.co/uQWDbVh8X1,2024-09-02 16:23:15.304754+00:00,RT @AdrianDittmann: JUST IN: Massive rally in support of Bolsonaro this Sunday in Paraná Brazil https://t.co/uQWDbVh8X1,@AdrianDittmann: JUST IN: Massive rally in support of Bolsonaro this Sunday in Paraná Brazil ,0.1139107513888889,0.6178624305555555,True,elonmusk
+24,119881725,"But if you do, use a VPN for protection 😂",https://twitter.com/elonmusk/status/1830632468736590260,Elon Musk,1869374,2024-09-02 15:42:46,2024-09-02 12:42:46,[],[],2024-09-02 16:16:24.195884,"[{'entities': array([{'end': 24, 'entity_group': 'MISC', 'score': 0.8755742311477661, 'start': 21, 'word': 'VPN'},
+        {'end': 65, 'entity_group': 'MISC', 'score': 0.6943233013153076, 'start': 62, 'word': 'VPN'}],
+       dtype=object), 'text': 'But if you do, use a VPN for protection \nBut if you do, use a VPN for protection'}]",[],[],2024-09-02 16:22:22.789680,"But if you do, use a VPN for protection 😂","But if you do, use a VPN for protection 😂",2024-09-02 16:22:22.789680+00:00,"But if you do, use a VPN for protection 😂","But if you do, use a VPN for protection 😂",0.09960938777777778,0.6602193555555556,True,elonmusk
+25,119807694,Starlink is the only high-bandwidth Internet system that covers all of Earth. It will probably deliver over 90% of all space-based Internet traffic next year.,https://twitter.com/elonmusk/status/1830388762079101011,Elon Musk,15534303,2024-09-01 23:34:22,2024-09-01 20:34:22,[],[],2024-09-01 23:40:44.447088,"[{'entities': array([{'end': 8, 'entity_group': 'ORG', 'score': 0.9140714406967163, 'start': 0, 'word': 'Starlink'},
+        {'end': 44, 'entity_group': 'MISC', 'score': 0.6416987180709839, 'start': 36, 'word': 'Internet'},
+        {'end': 76, 'entity_group': 'LOC', 'score': 0.9998739957809448, 'start': 71, 'word': 'Earth'},
+        {'end': 140, 'entity_group': 'MISC', 'score': 0.8729571104049683, 'start': 132, 'word': 'Internet'},
+        {'end': 168, 'entity_group': 'ORG', 'score': 0.7887258529663086, 'start': 160, 'word': 'Starlink'},
+        {'end': 204, 'entity_group': 'MISC', 'score': 0.5558590292930603, 'start': 196, 'word': 'Internet'},
+        {'end': 236, 'entity_group': 'LOC', 'score': 0.9997419714927673, 'start': 231, 'word': 'Earth'},
+        {'end': 300, 'entity_group': 'MISC', 'score': 0.9309630393981934, 'start': 292, 'word': 'Internet'}],
+       dtype=object), 'text': 'Starlink is the only high-bandwidth Internet system that covers all of Earth. \nIt will probably deliver over 90% of all space-based Internet traffic next year.\nStarlink is the only high-bandwidth Internet system that covers all of Earth. \nIt will probably deliver over 90% of all space-based Internet traffic next year.'}]",['Starlink' 'Earth'],['internet'],2024-09-01 23:48:03.222890,"Starlink is the only high-bandwidth Internet system that covers all of Earth. 
+
+It will probably deliver over 90% of all space-based Internet traffic next year.","Starlink is the only high-bandwidth Internet system that covers all of Earth. 
+
+It will probably deliver over 90% of all space-based Internet traffic next year.",2024-09-01 23:48:03.222893+00:00,"Starlink is the only high-bandwidth Internet system that covers all of Earth. 
+
+It will probably deliver over 90% of all space-based Internet traffic next year.","Starlink is the only high-bandwidth Internet system that covers all of Earth. 
+
+It will probably deliver over 90% of all space-based Internet traffic next year.",0.12188216722222223,0.22811746944444444,True,elonmusk
+26,119838517,Exactly. This platform does not seek to impose the laws of the United States on other countries – we obey the laws of that country in that country. The problem in Brazil is that @AlexandreFiles we were being told to break Brazilian laws and that,https://twitter.com/elonmusk/status/1830465180951613474,Elon Musk,7376844,2024-09-02 04:38:02,2024-09-02 01:38:02,[],[],2024-09-02 05:16:32.864588,"[{'entities': array([{'end': 77, 'entity_group': 'LOC', 'score': 0.9999979734420776, 'start': 64, 'word': 'United States'},
+        {'end': 171, 'entity_group': 'LOC', 'score': 0.999997615814209, 'start': 165, 'word': 'Brazil'},
+        {'end': 195, 'entity_group': 'ORG', 'score': 0.998116672039032, 'start': 180, 'word': '@AlexandreFiles'},
+        {'end': 230, 'entity_group': 'MISC', 'score': 0.9999805688858032, 'start': 224, 'word': 'Brazil'},
+        {'end': 325, 'entity_group': 'LOC', 'score': 0.9999975562095642, 'start': 312, 'word': 'United States'},
+        {'end': 419, 'entity_group': 'LOC', 'score': 0.9999973773956299, 'start': 413, 'word': 'Brazil'},
+        {'end': 443, 'entity_group': 'ORG', 'score': 0.9988701939582825, 'start': 428, 'word': '@AlexandreFiles'},
+        {'end': 481, 'entity_group': 'MISC', 'score': 0.9171105623245239, 'start': 472, 'word': 'Brazilian'}],
+       dtype=object), 'text': 'Exactly. \nThis platform does not seek to impose the laws of the United States on other countries – we obey the laws of that country in that country. \nThe problem in Brazil is that @AlexandreFiles we were being told to break Brazilian laws and that\nExactly. \nThis platform does not seek to impose the laws of the United States on other countries – we obey the laws of that country in that country. \nThe problem in Brazil is that @AlexandreFiles we were being told to break Brazilian laws and that we would be sanctioned if we…'}]",['United States' 'Brazil' '@AlexandreFiles'],['country'],2024-09-02 05:16:55.183910,"Exactly. 
+
+This platform does not seek to impose the laws of the United States on other countries – we obey the laws of that country in that country. 
+
+The problem in Brazil is that @AlexandreFiles we were being told to break Brazilian laws and that","Exactly. 
+
+This platform does not seek to impose the laws of the United States on other countries – we obey the laws of that country in that country. 
+
+The problem in Brazil is that @AlexandreFiles we were being told to break Brazilian laws and that we would be sanctioned if we…",2024-09-02 05:16:55.183919+00:00,"Exactly. 
+
+This platform does not seek to impose the laws of the United States on other countries – we obey the laws of that country in that country. 
+
+The problem in Brazil is that @AlexandreFiles we were being told to break Brazilian laws and that we would be sanctioned if we…","Exactly. 
+
+This platform does not seek to impose the laws of the United States on other countries – we obey the laws of that country in that country. 
+
+The problem in Brazil is that @AlexandreFiles we were being told to break Brazilian laws and that",0.006199811666666667,0.6481066416666668,True,elonmusk
+27,119879062,This is great,https://twitter.com/elonmusk/status/1830627510117384329,Elon Musk,698271,2024-09-02 15:23:04,2024-09-02 12:23:04,[],[],2024-09-02 15:41:21.333257,"[{'entities': array([], dtype=object), 'text': 'This is great\nThis is great'}]",[],['great'],2024-09-02 15:50:17.274460,This is great,This is great,2024-09-02 15:50:17.274467+00:00,This is great,This is great,0.14887255638888888,0.45368735000000004,True,elonmusk
+28,119879057,Viva a Democracia! Viva o Brasil Livre! 🇧🇷,https://twitter.com/elonmusk/status/1830630766197268942,Elon Musk,2905299,2024-09-02 15:36:00,2024-09-02 12:36:00,[],[],2024-09-02 15:41:22.138436,"[{'entities': array([{'end': 38, 'entity_group': 'LOC', 'score': 0.9999780654907227, 'start': 26, 'word': 'Brasil Livre'},
+        {'end': 79, 'entity_group': 'LOC', 'score': 0.9999716877937317, 'start': 67, 'word': 'Brasil Livre'}],
+       dtype=object), 'text': 'Viva a Democracia! Viva o Brasil Livre! \nViva a Democracia! Viva o Brasil Livre!'}        ]",['Brasil Livre'],['democracia viva'],2024-09-02 15:50:20.166010,Viva a Democracia! Viva o Brasil Livre! 🇧🇷,Viva a Democracia! Viva o Brasil Livre! 🇧🇷,2024-09-02 15:50:20.166014+00:00,Viva a Democracia! Viva o Brasil Livre! 🇧🇷,Viva a Democracia! Viva o Brasil Livre! 🇧🇷,0.14945210388888888,0.2389350027777778,True,elonmusk
+29,119891135,"So many lives have been lost, because Democrat policies pander to the criminal clients. Criminals vote overwhelmingly Democrat, so they don`t want to lose their votes.",https://twitter.com/elonmusk/status/1830654525625295111,Elon Musk,6754948,2024-09-02 17:10:25,2024-09-02 14:10:25,[],[],2024-09-02 17:13:31.901577,"[{'entities': array([{'end': 46, 'entity_group': 'MISC', 'score': 0.999983549118042, 'start': 38, 'word': 'Democrat'},
+        {'end': 127, 'entity_group': 'MISC', 'score': 0.9999762773513794, 'start': 119, 'word': 'Democrat'},
+        {'end': 215, 'entity_group': 'MISC', 'score': 0.9999852180480957, 'start': 207, 'word': 'Democrat'},
+        {'end': 296, 'entity_group': 'MISC', 'score': 0.9999819993972778, 'start': 288, 'word': 'Democrat'}],
+       dtype=object), 'text': ""So many lives have been lost, because Democrat policies pander to the criminal clients. \nCriminals vote overwhelmingly Democrat, so they don't want to lose their votes.\nSo many lives have been lost, because Democrat policies pander to the criminal clients. \nCriminals vote overwhelmingly Democrat, so they don’t want to lose their votes.""}]",[],['vote' 'criminal'],2024-09-02 19:44:57.405000,"So many lives have been lost, because Democrat policies pander to the criminal clients. 
+
+Criminals vote overwhelmingly Democrat, so they don't want to lose their votes.","So many lives have been lost, because Democrat policies pander to the criminal clients. 
+
+Criminals vote overwhelmingly Democrat, so they don’t want to lose their votes.",2024-09-02 17:15:56.058301+00:00,"So many lives have been lost, because Democrat policies pander to the criminal clients. 
+
+Criminals vote overwhelmingly Democrat, so they don’t want to lose their votes.","So many lives have been lost, because Democrat policies pander to the criminal clients. 
+
+Criminals vote overwhelmingly Democrat, so they don't want to lose their votes.",2.5237509508333336,2.5756680555555556,True,elonmusk
+30,119881714,RT @JMilei: FENÓMENO BARRIAL,https://twitter.com/elonmusk/status/1830638519691440514,Elon Musk,981752,2024-09-02 16:06:49,2024-09-02 13:06:49,[],['JM'],2024-09-02 16:19:47.930408,"[{'entities': array([{'end': 6, 'entity_group': 'PER', 'score': 0.5630496144294739, 'start': 4, 'word': 'JM'},
+        {'end': 9, 'entity_group': 'ORG', 'score': 0.5859099626541138, 'start': 6, 'word': 'ile'},
+        {'end': 28, 'entity_group': 'MISC', 'score': 0.9391782283782959, 'start': 21, 'word': 'BARRIAL'},
+        {'end': 38, 'entity_group': 'PER', 'score': 0.5669817924499512, 'start': 33, 'word': 'JMile'},
+        {'end': 57, 'entity_group': 'MISC', 'score': 0.894431471824646, 'start': 48, 'word': 'O BARRIAL'}],
+       dtype=object), 'text': 'RT @JMilei: FENÓMENO BARRIAL\nRT @JMilei: FENÓMENO BARRIAL'}                   ]",['JM' 'ile' 'JMile'],['fenómeno barrial'],2024-09-02 16:24:40.938570,@JMilei: FENÓMENO BARRIAL,RT @JMilei: FENÓMENO BARRIAL,2024-09-02 16:24:40.938579+00:00,RT @JMilei: FENÓMENO BARRIAL,@JMilei: FENÓMENO BARRIAL,0.08139115611111111,0.2977607138888889,True,elonmusk
+31,119887430,https://t.co/j6h9GPNgAL,https://twitter.com/elonmusk/status/1830639947625476233,Elon Musk,8078332,2024-09-02 16:12:29,2024-09-02 13:12:29,[],[],2024-09-02 16:56:50.273542,"[{'entities': array([], dtype=object), 'text': 'https://t.co/j6h9GPNgAL\nhttps://t.co/j6h9GPNgAL'}]",[],[],2024-09-02 16:57:20.696630,,https://t.co/j6h9GPNgAL,2024-09-02 16:57:20.696630+00:00,https://t.co/j6h9GPNgAL,,0.008450857777777777,0.7476935083333333,True,elonmusk
+32,119895919,💯,https://twitter.com/elonmusk/status/1830655210840363222,Elon Musk,6059762,2024-09-02 17:13:08,2024-09-02 14:13:08,[],[],2024-09-02 17:46:06.367316,"[{'entities': array([], dtype=object), 'text': 'a\na'}]",[],[],2024-09-02 17:54:41.569920,💯,💯,2024-09-02 17:54:41.569928+00:00,💯,💯,0.14311183444444442,0.6926583111111111,True,elonmusk
+33,119832087,"The 𝕏 algorithm assumes that if you interact with content, you want to see more of that content. One of the strongest signals is if you forward 𝕏 posts to friends, it assumes you like that content a lot, because it takes effort to forward.Unfortu",https://twitter.com/elonmusk/status/1830440852411326782,Elon Musk,30544301,2024-09-02 03:01:21,2024-09-02 00:01:21,[],[],2024-09-02 03:42:55.685347,"[{'entities': array([], dtype=object), 'text': 'The  algorithm assumes that if you interact with content, you want to see more of that content. \nOne of the strongest signals is if you forward  posts to friends, it assumes you like that content a lot, because it takes effort to forward.\nUnfortu\nThe  algorithm assumes that if you interact with content, you want to see more of that content. \nOne of the strongest signals is if you forward  posts to friends, it assumes you like that content a lot, because it takes effort to forward.\nUnfortunately, if the actual reason…'}]",[],['like that' 'actual'],2024-09-02 03:43:20.721840,"The 𝕏 algorithm assumes that if you interact with content, you want to see more of that content. 
+
+One of the strongest signals is if you forward 𝕏 posts to friends, it assumes you like that content a lot, because it takes effort to forward.
+
+Unfortu","The 𝕏 algorithm assumes that if you interact with content, you want to see more of that content. 
+
+One of the strongest signals is if you forward 𝕏 posts to friends, it assumes you like that content a lot, because it takes effort to forward.
+
+Unfortunately, if the actual reason…",2024-09-02 03:43:20.721848+00:00,"The 𝕏 algorithm assumes that if you interact with content, you want to see more of that content. 
+
+One of the strongest signals is if you forward 𝕏 posts to friends, it assumes you like that content a lot, because it takes effort to forward.
+
+Unfortunately, if the actual reason…","The 𝕏 algorithm assumes that if you interact with content, you want to see more of that content. 
+
+One of the strongest signals is if you forward 𝕏 posts to friends, it assumes you like that content a lot, because it takes effort to forward.
+
+Unfortu",0.006954581388888889,0.6999227333333333,True,elonmusk
+34,119841905,His actions are against the will of the Brazilian people he is supposed to represent,https://twitter.com/elonmusk/status/1830492169632731182,Elon Musk,4245485,2024-09-02 06:25:16,2024-09-02 03:25:16,[],[],2024-09-02 06:50:21.684041,"[{'entities': array([{'end': 49, 'entity_group': 'MISC', 'score': 0.9996984004974365, 'start': 40, 'word': 'Brazilian'},
+        {'end': 134, 'entity_group': 'MISC', 'score': 0.9996928572654724, 'start': 125, 'word': 'Brazilian'}],
+       dtype=object), 'text': 'His actions are against the will of the Brazilian people he is supposed to represent\nHis actions are against the will of the Brazilian people he is supposed to represent'}]",[],[],2024-09-02 06:50:43.322630,His actions are against the will of the Brazilian people he is supposed to represent,His actions are against the will of the Brazilian people he is supposed to represent,2024-09-02 06:50:43.322639+00:00,His actions are against the will of the Brazilian people he is supposed to represent,His actions are against the will of the Brazilian people he is supposed to represent,0.006010719166666667,0.4242562861111111,True,elonmusk
+35,119833571,Amen brother,https://twitter.com/elonmusk/status/1830453580634955952,Elon Musk,11935162,2024-09-02 03:51:56,2024-09-02 00:51:56,[],[],2024-09-02 04:19:18.978648,"[{'entities': array([], dtype=object), 'text': 'Amen brother\nAmen brother'}]",[],[],2024-09-02 04:25:52.264950,Amen brother,Amen brother,2024-09-02 04:25:52.264957+00:00,Amen brother,Amen brother,0.10924619499999999,0.5656291527777778,True,elonmusk
+36,119841900,RT @WallStreetSilv: Javier MileiPresident of Argentina (8 months)🔊 … sound on https://t.co/Q1oNrA925o,https://twitter.com/elonmusk/status/1830485660190351497,Elon Musk,981753,2024-09-02 05:59:24,2024-09-02 02:59:24,['Javier Milei' 'President'],[],2024-09-02 06:45:19.726958,"[{'entities': array([{'end': 18, 'entity_group': 'ORG', 'score': 0.9995550513267517, 'start': 3, 'word': '@WallStreetSilv'},
+        {'end': 32, 'entity_group': 'PER', 'score': 0.9999916553497314, 'start': 20, 'word': 'Javier Milei'},
+        {'end': 55, 'entity_group': 'LOC', 'score': 0.9999973773956299, 'start': 46, 'word': 'Argentina'},
+        {'end': 121, 'entity_group': 'ORG', 'score': 0.9968113899230957, 'start': 106, 'word': '@WallStreetSilv'},
+        {'end': 135, 'entity_group': 'PER', 'score': 0.9999927878379822, 'start': 123, 'word': 'Javier Milei'},
+        {'end': 158, 'entity_group': 'LOC', 'score': 0.9999974966049194, 'start': 149, 'word': 'Argentina'}],
+       dtype=object), 'text': 'RT @WallStreetSilv: Javier Milei\nPresident of Argentina (8 months)\n … sound on https://t.co/Q1oNrA925o\nRT @WallStreetSilv: Javier Milei\nPresident of Argentina (8 months)\n … sound on https://t.co/Q1oNrA925o'}]",['@WallStreetSilv' 'Javier Milei' 'Argentina'],['argentina'],2024-09-02 06:45:51.087080,"@WallStreetSilv: Javier Milei
+President of Argentina (8 months)
+
+🔊 … sound on ","RT @WallStreetSilv: Javier Milei
+President of Argentina (8 months)
+
+🔊 … sound on https://t.co/Q1oNrA925o",2024-09-02 06:45:51.087088+00:00,"RT @WallStreetSilv: Javier Milei
+President of Argentina (8 months)
+
+🔊 … sound on https://t.co/Q1oNrA925o","@WallStreetSilv: Javier Milei
+President of Argentina (8 months)
+
+🔊 … sound on ",0.008711145,0.7741908555555554,True,elonmusk
+37,119881721,Interesting article,https://twitter.com/elonmusk/status/1830635162725441867,Elon Musk,3594377,2024-09-02 15:53:29,2024-09-02 12:53:29,[],[],2024-09-02 16:19:58.239578,"[{'entities': array([], dtype=object), 'text': 'Interesting article\nInteresting article'}]",[],[],2024-09-02 16:24:37.187570,Interesting article,Interesting article,2024-09-02 16:24:37.187571+00:00,Interesting article,Interesting article,0.07748555333333333,0.5189409916666666,True,elonmusk
+38,119881727,Super easy to use a VPN if a website is restricted in your location,https://twitter.com/elonmusk/status/1830634830801072374,Elon Musk,2346297,2024-09-02 15:52:09,2024-09-02 12:52:09,[],[],2024-09-02 16:16:25.461069,"[{'entities': array([{'end': 23, 'entity_group': 'MISC', 'score': 0.8040624260902405, 'start': 20, 'word': 'VPN'},
+        {'end': 91, 'entity_group': 'MISC', 'score': 0.6583189368247986, 'start': 88, 'word': 'VPN'}],
+       dtype=object), 'text': 'Super easy to use a VPN if a website is restricted in your location\nSuper easy to use a VPN if a website is restricted in your location'}]",[],['super'],2024-09-02 16:23:15.961240,Super easy to use a VPN if a website is restricted in your location,Super easy to use a VPN if a website is restricted in your location,2024-09-02 16:23:15.961248+00:00,Super easy to use a VPN if a website is restricted in your location,Super easy to use a VPN if a website is restricted in your location,0.11402782527777779,0.5186003444444445,True,elonmusk
+39,119841902,People like Ana are great,https://twitter.com/elonmusk/status/1830494071338533295,Elon Musk,4497758,2024-09-02 06:32:50,2024-09-02 03:32:50,[],['Ana'],2024-09-02 06:45:22.126866,"[{'entities': array([{'end': 15, 'entity_group': 'PER', 'score': 0.9993253946304321, 'start': 12, 'word': 'Ana'},
+        {'end': 41, 'entity_group': 'PER', 'score': 0.9987351298332214, 'start': 38, 'word': 'Ana'}],
+       dtype=object), 'text': 'People like Ana are great\nPeople like Ana are great'}                            ]",['Ana'],['great' 'like'],2024-09-02 06:46:12.546910,People like Ana are great,People like Ana are great,2024-09-02 06:46:12.546918+00:00,People like Ana are great,People like Ana are great,0.014005567777777776,0.22292969722222222,True,elonmusk
+40,119881711,Wow,https://twitter.com/elonmusk/status/1830639033979912305,Elon Musk,2153650,2024-09-02 16:08:51,2024-09-02 13:08:51,['Wow'],[],2024-09-02 16:16:25.414573,"[{'entities': array([], dtype=object), 'text': 'Wow\nWow'}]",[],[],2024-09-02 16:23:11.560090,Wow,Wow,2024-09-02 16:23:11.560091+00:00,Wow,Wow,0.11281819916666666,0.23904446944444444,True,elonmusk
+41,119892113,"Unless the Brazilian government returns the illegally seized property of 𝕏 and SpaceX, we will seek reciprocal seizure of government assets too. Hope Lula enjoys flying commercial.",https://twitter.com/elonmusk/status/1830651223722119223,Elon Musk,9609238,2024-09-02 16:57:18,2024-09-02 13:57:18,['Lula Da Silva' 'SpaceX'],['Lula' 'SpaceX'],2024-09-02 17:18:51.507804,"[{'entities': array([{'end': 20, 'entity_group': 'MISC', 'score': 0.9998352527618408, 'start': 11, 'word': 'Brazilian'},
+        {'end': 84, 'entity_group': 'ORG', 'score': 0.9999944567680359, 'start': 78, 'word': 'SpaceX'},
+        {'end': 154, 'entity_group': 'PER', 'score': 0.9999843835830688, 'start': 150, 'word': 'Lula'},
+        {'end': 201, 'entity_group': 'MISC', 'score': 0.9998381733894348, 'start': 192, 'word': 'Brazilian'},
+        {'end': 265, 'entity_group': 'ORG', 'score': 0.9999920725822449, 'start': 259, 'word': 'SpaceX'},
+        {'end': 335, 'entity_group': 'PER', 'score': 0.9999809265136719, 'start': 331, 'word': 'Lula'}],
+       dtype=object), 'text': 'Unless the Brazilian government returns the illegally seized property of  and SpaceX, we will seek reciprocal seizure of government assets too. \nHope Lula enjoys flying commercial.\nUnless the Brazilian government returns the illegally seized property of  and SpaceX, we will seek reciprocal seizure of government assets too. \nHope Lula enjoys flying commercial.'}]",['SpaceX' 'Lula'],[],2024-09-02 17:19:15.737580,"Unless the Brazilian government returns the illegally seized property of 𝕏 and SpaceX, we will seek reciprocal seizure of government assets too. 
+
+Hope Lula enjoys flying commercial.","Unless the Brazilian government returns the illegally seized property of 𝕏 and SpaceX, we will seek reciprocal seizure of government assets too. 
+
+Hope Lula enjoys flying commercial.",2024-09-02 17:19:15.737583+00:00,"Unless the Brazilian government returns the illegally seized property of 𝕏 and SpaceX, we will seek reciprocal seizure of government assets too. 
+
+Hope Lula enjoys flying commercial.","Unless the Brazilian government returns the illegally seized property of 𝕏 and SpaceX, we will seek reciprocal seizure of government assets too. 
+
+Hope Lula enjoys flying commercial.",0.006730493333333334,0.36603821666666664,True,elonmusk
+42,119881712,One hundred percent!,https://twitter.com/elonmusk/status/1830637956723532114,Elon Musk,4478028,2024-09-02 16:04:35,2024-09-02 13:04:35,[],[],2024-09-02 16:19:47.883482,"[{'entities': array([], dtype=object), 'text': 'One hundred percent!\nOne hundred percent!'}]",[],[],2024-09-02 16:25:16.505880,One hundred percent!,One hundred percent!,2024-09-02 16:25:16.505885+00:00,One hundred percent!,One hundred percent!,0.09128399944444444,0.3448627444444444,True,elonmusk
+43,119881715,Those who want to undermine the Constitution are committing treason,https://twitter.com/elonmusk/status/1830635570240049228,Elon Musk,5574877,2024-09-02 15:55:06,2024-09-02 12:55:06,[],[],2024-09-02 16:16:25.437790,"[{'entities': array([{'end': 44, 'entity_group': 'MISC', 'score': 0.9999020099639893, 'start': 32, 'word': 'Constitution'},
+        {'end': 112, 'entity_group': 'MISC', 'score': 0.9999028444290161, 'start': 100, 'word': 'Constitution'}],
+       dtype=object), 'text': 'Those who want to undermine the Constitution are committing treason\nThose who want to undermine the Constitution are committing treason'}]",[],[],2024-09-02 16:23:10.921710,Those who want to undermine the Constitution are committing treason,Those who want to undermine the Constitution are committing treason,2024-09-02 16:23:10.921719+00:00,Those who want to undermine the Constitution are committing treason,Those who want to undermine the Constitution are committing treason,0.11263442222222222,0.46803380833333336,True,elonmusk
+44,119833574,"True. I was just with some friends who were saying that their feed had become more toxic lately. Turns out they had been sharing examples of toxic posts with each other, which makes the algorithm think you love toxic posts.",https://twitter.com/elonmusk/status/1830457658433839161,Elon Musk,9799999,2024-09-02 04:08:08,2024-09-02 01:08:08,['True'],[],2024-09-02 04:19:19.308847,"[{'entities': array([], dtype=object), 'text': 'True. \nI was just with some friends who were saying that their feed had become more toxic lately. \nTurns out they had been sharing examples of toxic posts with each other, which makes the algorithm think you love toxic posts.\nTrue. \nI was just with some friends who were saying that their feed had become more toxic lately. \nTurns out they had been sharing examples of toxic posts with each other, which makes the algorithm think you love toxic posts.'}]",[],['love'],2024-09-02 04:25:54.512710,"True. 
+
+I was just with some friends who were saying that their feed had become more toxic lately. 
+
+Turns out they had been sharing examples of toxic posts with each other, which makes the algorithm think you love toxic posts.","True. 
+
+I was just with some friends who were saying that their feed had become more toxic lately. 
+
+Turns out they had been sharing examples of toxic posts with each other, which makes the algorithm think you love toxic posts.",2024-09-02 04:25:54.512713+00:00,"True. 
+
+I was just with some friends who were saying that their feed had become more toxic lately. 
+
+Turns out they had been sharing examples of toxic posts with each other, which makes the algorithm think you love toxic posts.","True. 
+
+I was just with some friends who were saying that their feed had become more toxic lately. 
+
+Turns out they had been sharing examples of toxic posts with each other, which makes the algorithm think you love toxic posts.",0.10977885083333333,0.29625353055555553,True,elonmusk
+45,119841904,"RT @AlexandreFiles: Em uma decisão de 18 de agosto, Alexandre de Moraes justificou algumas de suas ordens ilegais. Em resumo, ele explica q…",https://twitter.com/elonmusk/status/1830492458783809939,Elon Musk,981753,2024-09-02 06:26:25,2024-09-02 03:26:25,[],['Alexandre de Moraes'],2024-09-02 06:45:20.270204,"[{'entities': array([{'end': 18, 'entity_group': 'ORG', 'score': 0.9899747967720032, 'start': 3, 'word': '@AlexandreFiles'},
+        {'end': 71, 'entity_group': 'PER', 'score': 0.9999940395355225, 'start': 52, 'word': 'Alexandre de Moraes'},
+        {'end': 159, 'entity_group': 'ORG', 'score': 0.9386619329452515, 'start': 144, 'word': '@AlexandreFiles'},
+        {'end': 212, 'entity_group': 'PER', 'score': 0.9999904036521912, 'start': 193, 'word': 'Alexandre de Moraes'}],
+       dtype=object), 'text': 'RT @AlexandreFiles: Em uma decisão de 18 de agosto, Alexandre de Moraes justificou algumas de suas ordens ilegais. Em resumo, ele explica q…\nRT @AlexandreFiles: Em uma decisão de 18 de agosto, Alexandre de Moraes justificou algumas de suas ordens ilegais. Em resumo, ele explica q…'}]",['@AlexandreFiles' 'Alexandre de Moraes'],['explica'],2024-09-02 06:46:03.172110,"@AlexandreFiles: Em uma decisão de 18 de agosto, Alexandre de Moraes justificou algumas de suas ordens ilegais. Em resumo, ele explica q…","RT @AlexandreFiles: Em uma decisão de 18 de agosto, Alexandre de Moraes justificou algumas de suas ordens ilegais. Em resumo, ele explica q…",2024-09-02 06:46:03.172112+00:00,"RT @AlexandreFiles: Em uma decisão de 18 de agosto, Alexandre de Moraes justificou algumas de suas ordens ilegais. Em resumo, ele explica q…","@AlexandreFiles: Em uma decisão de 18 de agosto, Alexandre de Moraes justificou algumas de suas ordens ilegais. Em resumo, ele explica q…",0.01191719611111111,0.32727003055555554,True,elonmusk
+46,119879064,The free market works incredibly well,https://twitter.com/elonmusk/status/1830628821197873312,Elon Musk,566467,2024-09-02 15:28:17,2024-09-02 12:28:17,[],[],2024-09-02 15:41:22.248015,"[{'entities': array([], dtype=object), 'text': 'The free market works incredibly well\nThe free market works incredibly well'}]",[],[],2024-09-02 15:50:22.883390,The free market works incredibly well,The free market works incredibly well,2024-09-02 15:50:22.883390+00:00,The free market works incredibly well,The free market works incredibly well,0.15017649305555555,0.36830094166666666,True,elonmusk
+47,119881724,President @JMilei is doing an incredible job restoring Argentina to greatness!,https://twitter.com/elonmusk/status/1830638776617664589,Elon Musk,23638917,2024-09-02 16:07:50,2024-09-02 13:07:50,['President'],[],2024-09-02 16:26:36.937283,"[{'entities': array([{'end': 17, 'entity_group': 'PER', 'score': 0.9941246509552002, 'start': 10, 'word': '@JMilei'},
+        {'end': 64, 'entity_group': 'LOC', 'score': 0.9999982118606567, 'start': 55, 'word': 'Argentina'},
+        {'end': 96, 'entity_group': 'PER', 'score': 0.9975817799568176, 'start': 89, 'word': '@JMilei'},
+        {'end': 143, 'entity_group': 'LOC', 'score': 0.9999980926513672, 'start': 134, 'word': 'Argentina'}],
+       dtype=object), 'text': 'President @JMilei is doing an incredible job restoring Argentina to greatness!\nPresident @JMilei is doing an incredible job restoring Argentina to greatness!'}]",['@JMilei' 'Argentina'],['argentina'],2024-09-02 16:28:11.118740,President @JMilei is doing an incredible job restoring Argentina to greatness!,President @JMilei is doing an incredible job restoring Argentina to greatness!,2024-09-02 16:28:11.118743+00:00,President @JMilei is doing an incredible job restoring Argentina to greatness!,President @JMilei is doing an incredible job restoring Argentina to greatness!,0.026161515833333333,0.33919964999999996,True,elonmusk
+48,119892114,"This weekend, the @xAI team brought our Colossus 100k H100 training cluster online. From start to finish, it was done in 122 days. Colossus is the most powerful AI training system in the world. Moreover, it will double in size to 200k (50k H200s) i",https://twitter.com/elonmusk/status/1830650370336473253,Elon Musk,5081444,2024-09-02 16:53:54,2024-09-02 13:53:54,[],[],2024-09-02 17:18:53.329806,"[{'entities': array([{'end': 22, 'entity_group': 'ORG', 'score': 0.999743640422821, 'start': 18, 'word': '@xAI'},
+        {'end': 48, 'entity_group': 'MISC', 'score': 0.9999754428863525, 'start': 40, 'word': 'Colossus'},
+        {'end': 140, 'entity_group': 'MISC', 'score': 0.9999725222587585, 'start': 132, 'word': 'Colossus'},
+        {'end': 272, 'entity_group': 'ORG', 'score': 0.9998063445091248, 'start': 268, 'word': '@xAI'},
+        {'end': 298, 'entity_group': 'MISC', 'score': 0.9999765753746033, 'start': 290, 'word': 'Colossus'},
+        {'end': 390, 'entity_group': 'MISC', 'score': 0.9999706149101257, 'start': 382, 'word': 'Colossus'}],
+       dtype=object), 'text': 'This weekend, the @xAI team brought our Colossus 100k H100 training cluster online. From start to finish, it was done in 122 days. \nColossus is the most powerful AI training system in the world. Moreover, it will double in size to 200k (50k H200s) i\nThis weekend, the @xAI team brought our Colossus 100k H100 training cluster online. From start to finish, it was done in 122 days. \nColossus is the most powerful AI training system in the world. Moreover, it will double in size to 200k (50k H200s) in a few months. \nExcellent…'}]",['@xAI'],['team' 'online'],2024-09-02 17:19:26.673970,"This weekend, the @xAI team brought our Colossus 100k H100 training cluster online. From start to finish, it was done in 122 days. 
+
+Colossus is the most powerful AI training system in the world. Moreover, it will double in size to 200k (50k H200s) i","This weekend, the @xAI team brought our Colossus 100k H100 training cluster online. From start to finish, it was done in 122 days. 
+
+Colossus is the most powerful AI training system in the world. Moreover, it will double in size to 200k (50k H200s) in a few months. 
+
+Excellent…",2024-09-02 17:19:26.673973+00:00,"This weekend, the @xAI team brought our Colossus 100k H100 training cluster online. From start to finish, it was done in 122 days. 
+
+Colossus is the most powerful AI training system in the world. Moreover, it will double in size to 200k (50k H200s) in a few months. 
+
+Excellent…","This weekend, the @xAI team brought our Colossus 100k H100 training cluster online. From start to finish, it was done in 122 days. 
+
+Colossus is the most powerful AI training system in the world. Moreover, it will double in size to 200k (50k H200s) i",0.009262267777777777,0.42574276944444445,True,elonmusk
