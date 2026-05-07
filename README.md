@@ -65,9 +65,3 @@ The files under `datasets/network/merged/` are pre-merged datasets that combine 
 - [notebooks/network_data_retrieval.sql](notebooks/network_data_retrieval.sql) contains the BigQuery queries used to retrieve blockchain datasets
 - [notebooks/analysis.ipynb](notebooks/analysis.ipynb) contains correlation and exploratory analysis
 - [notebooks/clean_tweets.ipynb](notebooks/clean_tweets.ipynb) contains tweet cleaning steps
-
-## Notes
-
-- The repo is focused on exploratory analysis and dashboarding rather than a production service.
-- Some network names in the data files use shortened labels such as `bit`, `doge`, or `optimisim`.
-- If you add new datasets, make sure their file names match the patterns expected in [app.py](app.py).
