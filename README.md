@@ -1,64 +1,75 @@
-# How impactful are tweets made by influential figures on blockchain prices
+# Blockchain Tweets and Market Data Dashboard
 
-```shell
-npm install
-pip3 install -r requirements.txt
+This project explores whether tweets from influential accounts are associated with changes in blockchain activity and coin prices.
+
+The main application is a Dash dashboard in [app.py](app.py) that lets you:
+
+- choose a Twitter user and inspect their tweets
+- choose a blockchain network and compare available metrics
+- view tweet dates alongside blockchain data on charts
+- inspect the underlying CSV tables used by the dashboard
+
+## Example
+
+Refer to [docs/example.md](docs/example.md) for a quick look at the app and its main dashboard layout.
+
+## Requirements
+
+- Python 3.10 or newer is recommended
+- The datasets in `datasets/` should already be present in the repository
+
+## Setup
+
+Create and activate a virtual environment, then install the Python dependencies:
+
+```powershell
+python -m venv .venv
+.venv\Scripts\Activate.ps1
+pip install -r requirements.txt
+```
+
+If you are on Windows and using the bundled virtual environment in this repo, activate it first and then install the requirements.
+
+## Run The App
+
+Start the dashboard with:
+
+```bash
 python app.py
-
 ```
 
+After the app starts, open the local Dash URL shown in the terminal, usually `http://127.0.0.1:8050`.
 
-```shell
-Data files under folder dataset/network/network_data explanation:
-The following represent what each files contained :
+## Project Structure
 
-The explanantion follows the following format:
-    <Files name format> :
-        cols: representation
+The most important folders are:
 
-<network_name>_avg_all.csv columns include :
-1) avg_value: The amount of tokens transferred  on average for the day
-2) avg_fee: The fee amount paid for the transfer on average for the day
-3) Block_timestamp: The block\'s date
+- `datasets/tweets/` - tweet data used by the dashboard
+- `datasets/network/network_data/` - daily blockchain network metrics
+- `datasets/network/prices/` - coin price history
+- `datasets/network/merged/` - combined datasets for analysis and machine learning
+- `notebooks/` - exploratory analysis and data preparation notebooks
 
-<network_name>_transac_all.csv columns include :
-1) date : block\s date
-2) avg_count : transaction count on the particular network on average each day
+## Data Overview
 
-<network_name>_gas_all.csv columns include :
-1) date : block\s date
-2) avg_count : transaction count on the particular network on average each day
-3) some files contain avg_base_fee_per_gas: base fee per gas on average each day (due to lack of data , we will be ignoring this column)
+The dashboard uses several CSV formats:
 
+- `<network>_avg_all.csv` - average transfer value and fees for a day
+- `<network>_transac_all.csv` - daily transaction count
+- `<network>_gas_all.csv` - gas-related daily metrics
+- `tweets_all2.csv` - combined tweet dataset used by the app
+- `cleaned_tweets2.csv` - cleaned tweet data prepared for analysis
 
-<network_name>_gas_all.csv columns include :
-1) date : block\'s date
-2) avg_gas_price_in_wei : Gas price provided by the sender in Wei on average each day
-3) avg_value_in_wei: Value transferred in Wei on average each day
+The files under `datasets/network/merged/` are pre-merged datasets that combine tweet data with network or price data to make analysis and model training easier.
 
-Data files under folder dataset/tweets explanation:
-1) cleaned_tweets.csv
--> processed and merged all files in filtered tweets
--> transforming object type columns to integer type (preparation for machine learning)
+## Analysis Files
 
+- [notebooks/network_data_retrieval.sql](notebooks/network_data_retrieval.sql) contains the BigQuery queries used to retrieve blockchain datasets
+- [notebooks/analysis.ipynb](notebooks/analysis.ipynb) contains correlation and exploratory analysis
+- [notebooks/clean_tweets.ipynb](notebooks/clean_tweets.ipynb) contains tweet cleaning steps
 
-Data files under folder datasets/network/merged explanation:
-each file represent csv output of merging every data in network/network_data with tweets/cleaned_tweets.csv and network/prices with tweets/cleaned_tweets.csv
--> the purpose is to ease the process of training and testing in machine learning models
+## Notes
 
-
-```
-
-```shell
-under scripts folder
-
-1) network_data_retrieval.sql
-please copy paste each code block to the respective datasets in the following google bigquery link:
-https://cloud.google.com/blockchain-analytics/docs/supported-datasets
-
-the codes block is meant to run in google cloud, to retrieve each respective dataset mentioned in the comment line above each block
-
-2) analysis.ipynb
-- represent different correlation analysis for each respective network_data and network > prices dataset with each tweets posted by different users
-
-```
+- The repo is focused on exploratory analysis and dashboarding rather than a production service.
+- Some network names in the data files use shortened labels such as `bit`, `doge`, or `optimisim`.
+- If you add new datasets, make sure their file names match the patterns expected in [app.py](app.py).
